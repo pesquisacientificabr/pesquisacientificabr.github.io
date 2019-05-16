@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Ver projetos"
+    url: /projetos-cientificos/
+  - title: "Sobre o site"
+    url: /sobre/
+  - title: "Divulgar projeto"
+    url: /divulgar-projeto-cientifico/
